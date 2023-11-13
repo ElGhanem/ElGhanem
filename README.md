@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate and results-driven Software Engin
 
 ## 🛠️ Tools & Technologies
 
-- *Programming Languages:* Dart, OOP principles.
 - *Tools and Version Control:* Postman for API testing, Git for version control.
 - *Design and Multimedia:* Proficient in Photoshop.
 
